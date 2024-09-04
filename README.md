@@ -12,7 +12,7 @@
     Welcome to the official repository for the raushang4 of Technology's college website. This project is developed as part of a college-level website design challenge. The website provides comprehensive information about the college, including events, notices, departments, and more.
     <br />
     <br />
-    <a target="_blank" href="https://.vercel.app/">Live Link</a>
+    <a target="_blank" href="https://college-website-nextjs-sv7k.vercel.app/">Live Link</a>
     ·
     <a target="_blank" href="https://github.com/raushang4/college-website-nextjs">Repo Link</a>
     ·
